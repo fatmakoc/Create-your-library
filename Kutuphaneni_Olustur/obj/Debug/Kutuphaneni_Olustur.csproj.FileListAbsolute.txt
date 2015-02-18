@@ -1,0 +1,11 @@
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\bin\Debug\Kutuphaneni_Olustur.exe.config
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\bin\Debug\Kutuphaneni_Olustur.exe
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\bin\Debug\Kutuphaneni_Olustur.pdb
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\obj\Debug\Kutuphaneni_Olustur.csprojResolveAssemblyReference.cache
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\obj\Debug\Kutuphaneni_Olustur.Form1.resources
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\obj\Debug\Kutuphaneni_Olustur.Properties.Resources.resources
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\obj\Debug\Kutuphaneni_Olustur.csproj.GenerateResource.Cache
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\obj\Debug\Kutuphaneni_Olustur.exe
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\obj\Debug\Kutuphaneni_Olustur.pdb
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\bin\Debug\library.dll
+D:\C#\Kutuphaneni_Olustur\Kutuphaneni_Olustur\bin\Debug\library.pdb

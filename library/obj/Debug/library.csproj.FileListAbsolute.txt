@@ -1,0 +1,5 @@
+D:\C#\Kutuphaneni_Olustur\library\bin\Debug\library.dll
+D:\C#\Kutuphaneni_Olustur\library\bin\Debug\library.pdb
+D:\C#\Kutuphaneni_Olustur\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+D:\C#\Kutuphaneni_Olustur\library\obj\Debug\library.dll
+D:\C#\Kutuphaneni_Olustur\library\obj\Debug\library.pdb
